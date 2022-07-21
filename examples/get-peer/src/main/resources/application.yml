@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: info
+    com:
+      power4j: debug
+    reactor:
+      netty: debug
